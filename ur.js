@@ -218,21 +218,21 @@ const ur = async (insertion_element, square_size, square_unit="px", nr_tokens=7)
     .normal-5-dice {
         background-color: rgb(255,255,240);
         border: 2px solid rgba(80, 80, 60, 0.8);
-        background-image: url(https://i.imgur.com/wRJPbXE.png);
+        // background-image: url(https://i.imgur.com/wRJPbXE.png);
         background-size: cover;
     }
 
     .normal-dice {
         background-color: rgb(255,255,240);
         border: 2px solid rgba(80, 80, 60, 0.8);
-        background-image: url(https://i.imgur.com/Ey4tOQR.png);
+        // background-image: url(https://i.imgur.com/Ey4tOQR.png);
         background-size: cover;
     }
 
     .normal-eye {
         background-color: rgb(255,255,240);
         border: 2px solid rgba(80, 80, 60, 0.8);
-        background-image: url(https://i.imgur.com/R0RzPZi.png);
+        // background-image: url(https://i.imgur.com/R0RzPZi.png);
         background-size: cover;
     }
 
